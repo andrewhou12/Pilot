@@ -1,4 +1,13 @@
 
 export default function Home() {
-  return 
+  return (
+  <div>
+    <h1>
+      Pilot
+    </h1>
+
+
+  </div>
+  
+  )
 }
